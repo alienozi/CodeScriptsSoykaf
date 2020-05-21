@@ -1,5 +1,5 @@
 # BASIC-and-other-Codes
-Some of my personal BASIC code and other scripts etc.
+Some of my personal BASIC code and other scripts etc. To look up what does what press Ctrl+F to search it.
 
 ## OZI.bas
 Language   : GW-BASIC (PC-BASIC)  
