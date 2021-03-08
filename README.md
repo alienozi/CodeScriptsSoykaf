@@ -10,3 +10,8 @@ Description: Mathematical Series (exp or norm) Sum Calculator
 Language   : Powershell Script  
 Write-Date : 2020  
 Description: A Drag-and-Drop Hash Calculator for the Powershell 
+
+## pascal.c
+Language   : C
+Write-Date : 2021  
+Description: Calculates Pascal Triange with a line argument like `pascal 12` (will print 12 lines of the triangle)
